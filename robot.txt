@@ -4,12 +4,3 @@ Disallow: /fonts
 Disallow: /css
 Disallow: /js
 
-
-
-Home
-About
-Advantage
-dValue
-cvalue
-Pricing
-Contactus
